@@ -1,0 +1,9 @@
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/targets	target
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/genes	gene
+http://dbpedia.org/ontology/Drug	drugs
+http://dbpedia.org/ontology/Drug	drug
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/references	reference
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drug_interactions	drug interaction
+http://www4.wiwiss.fu-berlin.de/sider/resource/sider/side_effects	side effect
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseases	disease
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/enzymes	enzyme

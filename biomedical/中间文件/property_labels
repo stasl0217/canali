@@ -1,0 +1,134 @@
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chebiId	chebi id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genatlasId	genatlas id
+http://dbpedia.org/ontology/entrezgeneLink	gene id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genbankId	genbank id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalWaterSolubility	experimental water solubility
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/generalFunction	general function
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/inchiIdentifier	inchi identifier
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/predictedLogpHydrophobicity	predicted logp hydrophobicity
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/transmembraneRegions	transmembrane regions
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName	brand name
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/predictedWaterSolubility	predicted water solubility
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/molecularWeightMono	molecular weight mono
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/generalReference	general reference
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/size	size
+http://www4.wiwiss.fu-berlin.de/sider/resource/sider/sideEffectName	side effects name
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/interactionInsert	interaction insert
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pfamDomainFunctionPage	pfam domain function page
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genecardId	genecard id
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/class	class
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/inchiKey	inchi key
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/locus	locus
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/hprdId	hprd id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genbankIdProteinPage	genbank id protein page
+http://dbpedia.org/ontology/hgncidLink	hgnc id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/text	text
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/hetId	het id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture	brand mixture
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/patientInformationInsert	patient information insert
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/proteinBinding	protein binding
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/numberOfResidues	number of residues
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/indication	indication
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/geneName	gene name
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/theoreticalPi	theoretical pi
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chemicalIupacName	chemical iupac name
+http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId	sider drug id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/hgncIdPage	hgnc id page
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugReference	drug reference
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/toxicity	toxicity
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/contraindicationInsert	contraindication insert
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genbankIdGene	genbank id gene
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugType	drug type
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandedDrug	branded drug
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chemicalStructure	chemical structure
+http://dbpedia.org/ontology/pfamLink	pfam link
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/smilesStringIsomeric	smiles string isomeric
+http://dbpedia.org/ontology/uniprotLink	uniprot link
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pharmacology	pharmacology
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/predictedLogs	predicted logs
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/molecularWeight	molecular weight
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/foodInteraction	food interaction
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalCaco2Permeability	experimental caco 2 permeability
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/possibleDiseaseTarget	possible disease target
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene	associated gene
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/structure	structure
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pdbIdPage	pdb id page
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/cellularLocation	cellular location
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/rxlistLink	rxlist link
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/target	target
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pkaIsoelectricPoint	pka isoelectric point
+http://www4.wiwiss.fu-berlin.de/sider/resource/sider/sideEffect	side effect
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/fdaLabelFiles	fda label files
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chromosomeLocation	chromosome location
+http://www4.wiwiss.fu-berlin.de/sider/resource/sider/stitchId	stitch id
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/possibleDrug	possible drug
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/essentiality	essentiality
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/reference	reference
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/goClassificationFunction	go classification function
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/bio2rdfSymbol	bio to rdf symbol
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dpdDrugIdNumber	dpd drug id number
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name	name
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/signal	signal
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/degree	degree
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugInteractions	drug interactions
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/biotransformation	biotransformation
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/casRegistryNumber	cas registry number
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/state	state
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/meltingPoint	melting point
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/molecularWeightAverage	molecular weight average
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pubchemSubstanceId	pubchem substance id
+http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName	drugs alternate names name
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf	disease sub type of
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pdbHomologyId	pdb homology id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/goClassificationProcess	go classification process
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/msdsFiles	msds files
+http://dbpedia.org/ontology/omimLink	omim
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pdrhealthLink	pdrhealth link
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/keggDrugId	kegg drug id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/affectedOrganism	affected organism
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/massSpecFile	mass spec file
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/secondaryAccessionNumber	secondary accession number
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/interactionDrug1	interaction drug 1
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/omimPage	omim Page
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/mechanismOfAction	mechanism of action
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugCategory	drug category
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/smilesStringCanonical	smiles string canonical
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/primaryAccessionNo	primary accession no
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genbankIdProtein	genbank id protein
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genericName	generic name
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/swissprotName	swissprot name
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pdbExperimentalId	pdb experimental id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/enzyme	enzyme
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/swissprotPage	swissprot page
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/interactionDrug2	interaction drug 2
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pathway	pathway
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/ahfsCode	ahfs code
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/geneSequence	gene sequence
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synthesisReference	synthesis reference
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/goClassificationComponent	go classification component
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pdbId	pdb id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/absorption	absorption
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalLogpHydrophobicity	experimental logp hydrophobicity
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/proteinSequence	protein sequence
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/name	name
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/halfLife	half life
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/hgncIdPage	hgnc id page
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm	dosage form
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/creationDate	creation date
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym	synonym
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/description	description
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/atcCode	atc code
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/specificFunction	specific function
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/classDegree	class degree
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/updateDate	update date
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/reaction	reaction
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pubchemCompoundId	pubchem compound id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chemicalFormula	chemical formula
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/keggCompoundId	kegg compound id
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/chromosomalLocation	chromosomal location
+http://www4.wiwiss.fu-berlin.de/sider/resource/sider/sideEffectId	side effects sideeffect id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalLogs	experimental logs
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pharmgkbId	pharmgkb id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genbankIdGenePage	genbank id gene page
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/limsDrugId	lims drug id
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/bio2rdfSymbol	bio 2 rdf symbol

@@ -1,0 +1,11 @@
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGeneInv	associated gene
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf	supertype
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf	disease supertype
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf	disease super type 
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOfInv	subtype
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOfInv	disease subtype
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOfInv	disease sub type
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/possibleDrugInv	indication
+http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/classInv	disease
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugType	type
+http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/generalFunction	involved in
